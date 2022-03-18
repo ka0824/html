@@ -1,6 +1,6 @@
 ## input 태그에 텍스트 넣기
 
-input 태그 안에 placeholder 속성 이용
+input 태그 안에 placeholder 속성 이용. 
 input 태그에 쓰기 전까지 초기 값은 공백("").
 
 ```
